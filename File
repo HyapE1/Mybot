@@ -1,0 +1,17 @@
+stalled On Your Device
+
+ #Clone the repo👾
+ git clone https://github.com/Artis7eeR/ForwardTagRemoverBot.git
+ 
+ #Open The Folder📂
+ cd ForwardTagRemoverBot
+ 
+ #Install requirements🎯
+ pip install -r requirements.txt
+ 
+ #edit the bot token in config file📝
+ nano config.py
+ 
+ #Finally Run The Bot🤖
+ python bot.py
+ 
